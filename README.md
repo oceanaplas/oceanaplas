@@ -3,7 +3,7 @@
 
 🐋 **Saving marine life through technology.**
 
-A conservation tech startup protecting endangered marine species with AI, robotics and data science.
+A conservation tech startup protecting endangered marine species with AI, robotics and ocean sensing.
 
 - 🌍 **Website** → [oceanaplas.org](https://oceanaplas.org)
 - 💼 **Careers** → [oceanaplas.org/careers](https://oceanaplas.org/careers)
